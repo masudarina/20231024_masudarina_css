@@ -2,11 +2,11 @@
 
 header{
     width: 100%;
-    padding:0 2%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 
 ul{
     display: flex;
@@ -26,6 +26,7 @@ a{
 
 h1{
     color: #040485;
+    padding-left: 30px;
 }
 
 .position{
@@ -45,7 +46,7 @@ h1{
 
 .position__text{
     position: absolute;
-    top: 50%;
+    top: 40%;
     font-size: 60px;
     font-weight: lighter;
 }
